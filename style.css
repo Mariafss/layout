@@ -51,9 +51,11 @@ body {
     padding: 34px 0;
 }
 
-.atriz
+.atriz{
     padding: 24px 0;
 }
+
+
 .atriz-imagem{
     width: 140px;
 }
@@ -77,8 +79,6 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     background-color: rgba(156, 174, 177, 0.411);
-}
-
 }
 
 p{
