@@ -79,19 +79,9 @@ body {
     background-color: rgba(156, 174, 177, 0.411);
 }
 
-.rodape{
-    background-color: rgba(0, 81, 255, 0.575);
-    text-align: center;
-}
-
-.rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
-   
-}
-
 p{
     text-align: justify;
+    text-align: center;
 }
 
 h2{
