@@ -80,10 +80,10 @@ body {
 }
 
 p{
-    text-align: justify;
     text-align: center;
 }
 
 h2{
     text-align: center;
+    text-align: justify;
 }
